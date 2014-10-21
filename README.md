@@ -1,4 +1,4 @@
 mapp
 ====
 
-apple app plist files
+苹果应用的plist文件集合
