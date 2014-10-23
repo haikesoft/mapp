@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://211.142.198.5:801/spzx/spzx.ipa</string>
+					<string>http://211.142.198.5:801/down/spzx/spzx.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://211.142.198.5:801/spzx/Default.png</string>
+					<string>http://211.142.198.5:801/down/spzx/Default.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://211.142.198.5:801/spzx/icon.png</string>
+					<string>http://211.142.198.5:801/down/spzx/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.hnr1.sheqioa</string>
+				<string>com.hnmas.lyshoa</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
