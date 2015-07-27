@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.haikemobile.smartoa</string>
+				<string>cn.haikemobile.yian----</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>SmartOA</string>
+				<string>一安教育</string>
 			</dict>
 		</dict>
 	</array>
