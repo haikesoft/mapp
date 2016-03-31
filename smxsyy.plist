@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://120.194.249.244:8888/app/app/Default.png</string>
+					<string>http://120.194.249.244:8888/app/app/default.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
